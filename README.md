@@ -1,4 +1,4 @@
-Pytest Decatorler Nelerdir?
+Pytest Decatorler 
 Pytest, Python programları için bir test çerçevesidir. Yazılım projelerinde testlerin yazılması ve çalıştırılması için kullanılır. 
 Pytest, basit test senaryolarından karmaşık test süitlerine kadar çeşitli testleri destekler.
 Dekoratörler, pytest test çerçevesini daha esnek ve güçlü kılan özelliklerden sadece birkaç tanesidir.
