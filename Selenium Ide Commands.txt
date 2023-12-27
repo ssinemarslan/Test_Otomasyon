@@ -1,0 +1,15 @@
+Selenium, testleri otomatikleştiren bir test aracıdır. Selenium test betikleri oluşturmak için Java, C#, Python vb. gibi birden çok programlama dilini kullanabilme imkanı tanır.
+Yaygın kullanılan selenium ide commandlar:
+
+open: URL’i ( Siteyi/adresi ) açmak içindir.
+click: Bir nesneye tıklamak içindir.
+clickandWait: Nesneye tıkladıktan sonra sayfanın yüklenmesini bekler.
+assertElementPresent: Belirtilen elemanın yüklenmesini bekler.
+assertTextPresent: Belirtilen bir text’in(yazının) sayfada olup olmadığını kontrol eder.
+deleteCookie: Belirtilen Cookie’nin silinmesi sağlar.
+mouseOver: Mouse’u belirtilen elementin üzerine götürür.
+verifyTextPresent: Belirtilen nesnenin belirmesini bekler ve sağlamasını yapar.
+waitForPageToLoad: Sayfanın yüklenmesini bekler.
+captureEntirePageScreenshot: Üzerinde test yaptığınız sayfanın ekran görüntüsünü çerçevesiz olarak kaydeder.
+waitForElementPresent: Sayfadaki bir elementin yüklenmesini bekler, bunu genellikle JavaScript tarafından kontrol edilen elementler için kullanırız.
+type: Bir input’un içine yazmak için kullanılır.
